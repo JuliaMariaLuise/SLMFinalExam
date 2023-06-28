@@ -1,10 +1,10 @@
-package com.example.slmfinalexam;
-
+package com.example.slmfinalexam.controller;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+
 @SpringBootTest
-class SlmFinalExamApplicationTests {
+class MaintenanceMonitorApplicationTests {
 
     @Test
     void contextLoads() {
